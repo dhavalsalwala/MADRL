@@ -1,3 +1,6 @@
 [submodule "rltools"]
 	path = rltools
 	url = git@github.com:sisl/rltools.git
+[submodule "rllab"]
+	path = rllab
+	url = git@github.com:dhavalsalwala/rllab.git
